@@ -2,24 +2,26 @@
 
 ## 📺 Видео лекции
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4243ArvePC4?si=sEXuOmwXNAJ6_F63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Видео лекции: Поиск генов в бактериальных геномах](https://img.youtube.com/vi/4243ArvePC4/maxresdefault.jpg)](https://www.youtube.com/watch?v=4243ArvePC4)
+
+**🔗 [Смотреть на YouTube](https://www.youtube.com/watch?v=4243ArvePC4)**
 
 ## 📁 Содержание папки
 
 ### 📓 Jupyter Notebooks
 
-- **`bioinformatics_gene_analysis.ipynb`** - Основной практический блокнот с анализом генов на русском языке
-- **`bioinformatics_gene_analysis_en.ipynb`** - Английская версия практического блокнота
-- **`Raw_All_about_genes.ipynb`** - Исходный блокнот с общей информацией о генах
+- **[`bioinformatics_gene_analysis.ipynb`](bioinformatics_gene_analysis.ipynb)** - Основной практический блокнот с анализом генов на русском языке
+- **[`bioinformatics_gene_analysis_en.ipynb`](bioinformatics_gene_analysis_en.ipynb)** - Английская версия практического блокнота
+- **[`Raw_All_about_genes.ipynb`](Raw_All_about_genes.ipynb)** - Исходный блокнот с общей информацией о генах
 
 ### 📄 Документация
 
-- **`homework_1.md`** - Домашнее задание по поиску генов в бактериальных геномах
+- **[`homework_1.md`](homework_1.md)** - Домашнее задание по поиску генов в бактериальных геномах
   - Философия курса и основные принципы
   - Практическая задача: поиск генов в E. coli
   - Алгоритмы и методы анализа
   
-- **`transcription.md`** - Полная расшифровка лекции
+- **[`transcription.md`](transcription.md)** - Полная расшифровка лекции
   - Введение в курс
   - Знакомство со студентами
   - Подробное объяснение концепций
